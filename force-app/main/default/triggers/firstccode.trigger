@@ -1,3 +1,3 @@
-trigger firstccode on SOBJECT (before insert) {
-
+git add README.mdtrigger firstccode on SOBJECT (before insert) {
+djhahf
 }
